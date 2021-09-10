@@ -24,8 +24,6 @@ const DonutChart = () => {
             });
     }, []);
 
-
-
     const options = {
         legend: {
             show: true
